@@ -1,0 +1,43 @@
+# Comunicación serial con impresora
+pyserial==3.5
+
+# Procesamiento de imágenes y generación de etiquetas
+Pillow==10.0.1
+
+# Generación de códigos de barras
+python-barcode==0.15.1
+
+# Generación de códigos QR (opcional)
+qrcode==7.4.2
+
+# Bases de datos
+# SQLite (incluido en Python estándar)
+# Para MySQL
+PyMySQL==1.1.0
+mysql-connector-python==8.2.0
+
+# Para PostgreSQL
+psycopg2-binary==2.9.9
+
+# Para SQL Server
+pyodbc==5.0.1
+
+# Windows API para impresión (alternativa)
+pywin32==306
+
+# Utilidades adicionales
+requests==2.31.0
+python-dotenv==1.0.0
+
+# Para logging y configuración
+colorlog==6.7.0
+
+# Para validación de datos
+pydantic==2.5.0
+
+# Para manejo de fechas
+python-dateutil==2.8.2
+
+# Para testing (opcional)
+pytest==7.4.3
+pytest-mock==3.12.0
